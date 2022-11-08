@@ -1,0 +1,41 @@
+.footer{
+    background-color:rgb(243, 129, 35);
+    padding-top: 1rem;
+    position: relative;    
+    bottom: 0;
+    width: 100%;
+    padding-bottom: 20px;
+}
+
+.col{
+    display: flexbox;
+    text-align: center;
+    margin-right: 15rem;
+
+}
+
+.list{
+    text-align: start ;
+}
+
+.row{
+    display: start;
+}
+
+.buttonss{
+    text-align: center
+}
+
+ul {
+    list-style-type: none;
+}
+.title{
+    text-align: start;
+}
+
+.information{
+    font-size: 0.95rem;
+    color: rgb(0, 0, 0);
+    font-style: italic;
+    text-Decoration: 'none';
+}
